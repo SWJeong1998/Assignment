@@ -3,6 +3,6 @@ package MyGit;
 public class C {
 	public static void main(String[] args) {
 		System.out.println("C class is maded.");
-		System.out.println("Computer Engineering");
+		System.out.println("Computer Good");
 	}
 }
